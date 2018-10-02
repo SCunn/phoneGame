@@ -1,4 +1,4 @@
-# phoneGame
+# arduino controlled interactive telephone Game - Physical computing project
 arduino phone game 
 
 this code works in conjunction with an analog pulse dial telephone.  the code uses a seeed mp3player sheild .  
